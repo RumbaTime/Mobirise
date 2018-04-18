@@ -341,7 +341,7 @@
                 "title": "<b>ACCESS CONTROL</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>BIOMETRICS&nbsp;<br>CLOUD SERVICES&nbsp;<br>POE CONTROLLERS&nbsp;<br>WIRELESS LOCKS&nbsp;<br>MOBILE CREDENTIALS</b>",
+                "text": "<b>BIOMETRIC&nbsp;<br>CLOUD SERVICES&nbsp;<br>POE CONTROLLERS&nbsp;<br>WIRELESS LOCKS&nbsp;<br>MOBILE CREDENTIALS</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
                 "overlayOpacity": "0.1"
               },
@@ -359,7 +359,7 @@
                 "title": "<b>VIDEO SURVEILLANCE</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>ANALOG/IP CCTV&nbsp;<br>VIDEO MGMT SYSTEM<br>CLOUD SERVICES&nbsp;<br>VIDEO ANALYTICS</b>",
+                "text": "<b>ANALOG/IP CCTV&nbsp;<br>VIDEO MGMT SYSTEMS<br>CLOUD SERVICES&nbsp;<br>VIDEO ANALYTICS</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
                 "overlayOpacity": "0.1"
               },

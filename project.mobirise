@@ -431,7 +431,7 @@
                 "title": "<b>TELECOMMUNICATION &nbsp; &nbsp; &nbsp; &nbsp;</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<b>&nbsp;BUSINESS PHONES-VOIP</b><br><b>&nbsp;VOICE MAIL</b><br><b>&nbsp;CABLE INFRASTRUCTURE\n</b><br>",
+                "text": "<b>&nbsp;BUSINESS PHONES-VOIP</b><br><b>&nbsp;</b><b>CABLE INFRASTRUCTURE</b><br><b>&nbsp;VOICE MAIL</b><b><br></b><b>&nbsp;VIDEOCONFERENCE</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a> ",
                 "overlayOpacity": "0"
               }

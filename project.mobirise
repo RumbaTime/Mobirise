@@ -345,7 +345,7 @@
           "_params": {
             "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/construction-pm-pic-1-1024x683.jpg",
@@ -385,7 +385,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/video-surv-2000x1331.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -421,7 +421,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/business-phone-1024x684.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
